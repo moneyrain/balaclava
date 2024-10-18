@@ -22,7 +22,6 @@
 <p align="center">
 
 <img src="https://cdn.discordapp.com/attachments/1033129250783494194/1296897913808752750/Screenshot_2024-10-18_180820.png?ex=6713f5cd&is=6712a44d&hm=c7b47e53a95b09c630157e36584183b64cf810891889508f59f4cc14871816ee&" width="400px">
-</p>
 <img src="https://cdn.discordapp.com/attachments/1033129250783494194/1296897914127384679/Screenshot_2024-10-18_180901.png?ex=6713f5cd&is=6712a44d&hm=7be16fcb3cd3d43af22ca0d9c2168d9dbcab3d052977fe00b6f8e2b9c269079c&" width="400px">
 </p>
 
