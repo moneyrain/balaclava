@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Balaclava Pinger/Dos Tool</p>
+<p align="center">Balaclava Pinger/DoS Tool</p>
 <p align="center">Beautiful Design with ASCII Art </p>
 
 
